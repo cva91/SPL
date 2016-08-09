@@ -1,0 +1,13 @@
+Name of QuantLet:  SPLbbChina_QinHuai-test
+
+Published in:      Air pollution in Chine
+
+Description:       Tests and graphs differences in air pollution between northern and southern Chinese cities
+
+Keywords:          pollution, China, plot, regression
+
+See also:          MVAportfol_IBM_Ford, MVAportfol_IBM_PanAm
+
+Author:            Christoph Altmeppen
+
+Datafile:          AAP_PM_database_May2014.xls, economic_indicators.xls
