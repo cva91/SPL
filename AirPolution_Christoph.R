@@ -1,13 +1,13 @@
-#install.packages("readxl")
-#install.packages("maps")
-#install.packages("stargazer")
+setwd("C:/Users/sgtpeppers/Dropbox/Statistical Programming Languages") # set working directory here
+install.packages("readxl")
+install.packages("maps")
+install.packages("stargazer")
 
 library(readxl)
 library(maps)
 library(stargazer)
 
 # Loading and preparing data for our analysis
-setwd("C:/Users/sgtpeppers/Dropbox/Statistical Programming Languages") # set working directory here
 data              = read_excel("AAP_PM_database_May2014.xls", sheet = 2)
 data_china        = data.frame(data[which(data[, 3] == "China"), ])
 rm(data)
