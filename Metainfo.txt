@@ -1,0 +1,15 @@
+Name of QuantLet:  SPLbbChina_QinHuai-test
+
+Published in:      Air pollution in China
+
+Description:       Tests and graphs differences in air pollution between northern and southern Chinese cities. The Qin-Huai line, which divides those two regions, is found to have a signifcant impact in a linear regression with economic covariates.
+
+Keywords:          pollution, China, plot, regression
+
+See also:          SPLbbChina_clusplot, SPLdt_China_Dist, SPLdt_China_Clustest, SPLsb_China_map1, SPLsb_China_map2
+
+Author:            Christoph Altmeppen
+
+Submitted:         Sat, August 13 2016 by Christoph Altmeppen
+
+Datafile:          AAP_PM_database_May2014.xls, economic_indicators.xls
