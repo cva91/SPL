@@ -47,7 +47,7 @@ names(our_cities) = c("Name", "Latitude", "Longitude")
 data_china        = merge(data_china, our_cities, by = "Name")
 rm(our_cities)
 
-png(filename = "plot.png")
+png(filename = "SPLac_China_QinHuai1.png")
 # Qin-Huai line
 plot(data_china$Latitude, data_china$PM10, main = "PM10 pollution by Latitude", ylab = "PM10", xlab = "Latitude", cex.main=1.5, cex.axis=1.5, cex.lab = 1.5)
 abline(v = 33)
