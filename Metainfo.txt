@@ -1,4 +1,4 @@
-Name of QuantLet:  SPLbbChina_QinHuai-test
+Name of QuantLet:  SPLac_China_QinHuai
 
 Published in:      Air pollution in China
 
