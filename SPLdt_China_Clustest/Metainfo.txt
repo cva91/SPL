@@ -1,0 +1,15 @@
+Name of QuantLet:  DPLdt_China_Clustest
+
+Published in:      Air pollution in China
+
+Description:       Tests for differences in Air pollution between clusters created by SPLbbChina_clusplot
+
+Keywords:          pollution, China, clusters
+
+See also:          SPLbbChina_clusplot, SPLdt_China_Clustest, SPLsb_China_map1, SPLsb_China_map2, SPLac_China_QinHuai
+
+Author:            Thomas Dengler
+
+Submitted:         Sun, August 14 2016 by Thomas Dengler
+
+Datafile:          data_chinatest.xls
