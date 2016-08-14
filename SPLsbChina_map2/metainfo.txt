@@ -1,0 +1,18 @@
+Name of QuantLet : SPLsbChina_map2
+
+Published in : SPL
+
+Description : 'Depicts Chinese cities on a Google-Map of China. The size of the bubble symbol is relative to the average yearly amount of PM10.'
+
+Keywords : 'spatial data, ggmap, data visualization, air pollution, China, PM10'
+
+See also : SPLsbChina_map2, SPLac_China_QinHuai, SPLbbChina_clusplot, SPLdt_China_Dist, SPLdt_China_Clustest
+
+Author : Schwab, Benjamin
+
+Submitted : 08-12-2016
+
+Datafile:
+
+- data_china.csv
+
