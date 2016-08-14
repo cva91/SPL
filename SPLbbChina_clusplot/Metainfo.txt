@@ -1,0 +1,19 @@
+
+Name of Quantlet: SPLbbChina_clusplot
+
+Published in:     SPL
+
+Description:      Shows a scatterplot where each point is included into a cluster.
+                  Different clusters are visualized by a colored ellipse encircling
+                  their particular points. Cities are clustered by (centered) population density
+		  and (centered) share of secondary industry. 
+
+Keywords:         cluster analysis, clusplot, cluster
+
+Author :          Bjoern Bokelmann
+
+Datafiles:         AAP_PM_database_May2014.xls, economic_indicators.xls
+
+Input:		  Data of economic factors for chinese cities
+
+Output:		  Visualization of clusters according to economic factors.     
